@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# IntelliJ / JetBrains IDE
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+
+# Other typical Java build outputs
+out/
+*.class
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*.tmp
+
+# Ignore lab-specific wrappers or config jars
+**/gradle-wrapper.jar
